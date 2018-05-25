@@ -1,10 +1,10 @@
 # Site settings
 title: Apple Blog
-SEOTitle: Apple Blog
+SEOTitle: 果果de博客 | Apple Blog
 header-img: img/home-bg.jpg
 email: 313068117@qq.com
-description: "Apple Blog"
-keyword: "博客"
+description: "离开前，请叫醒我。"
+keyword: "果果,apple"
 #url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
