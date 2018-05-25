@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to Apple's Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-05-2107:19:00
+date:       2018-05-21 07:19:00
 author:     "GuoGuo"
 header-img: "img/post-bg-2015.jpg"
 tags:
