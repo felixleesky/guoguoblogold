@@ -85,16 +85,7 @@ friends: [
         title: "Bing",
         href: "https://cn.bing.com/"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "Github",
+        href: "https://github.com/"
     }
 ]
