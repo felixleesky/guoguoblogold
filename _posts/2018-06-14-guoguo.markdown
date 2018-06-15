@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Welcome to Apple's Blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-05-21 07:19:00
+title:      "古城稻香"
+subtitle:   " \"Hello World, Hello GuoGuo\""
+date:       2018-06-14 17:19:00
 author:     "GuoGuo"
 header-img: "img/post-bg-2015.jpg"
 tags:
